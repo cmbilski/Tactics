@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" source="../textures/wood_tileset_3.tsx"/>
+ <layer name="Tile Layer 1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEKACAMQ9FeLrfsYV0ddBESRf4Q6NQHmaKq0qV0OLi4uLi4uLh/uwq58+/V7XYT++qFXYeL63B3dgfdky5cGb6t5v0=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="30" height="30" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQwXYAbE9FuxAYzvzgdgfCy6gkd347IRhWtjrR8BOEA4YtZdiEAfE8QRwAg3sHQWjYBSMglEwCkbBKBgFmAAAfy0UsA==
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="30" height="30" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztzcEJACAMALEurBvoIi5rRygIipDAvS8C7lkffVvWH3xHNg+/AABQsQH2oQOo
+  </data>
+ </layer>
+</map>
